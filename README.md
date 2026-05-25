@@ -1,22 +1,19 @@
-# Stable Waifu Archive — home MVP
+# Stable Waifu — split home MVP
 
-Первая версия главной страницы портала.
+Главная в формате split-screen:
 
-## Внутри
+- слева бренд Stable Waifu и кнопка "Перейти в бота"
+- справа меню и новости
+- без текста "архив сообщества"
+
+## Файлы
+
 - index.html
 - style.css
 - script.js
 
-## Что есть
-- Главный hero-блок Stable Waifu Archive
-- Ивенты
-- Персонажи
-- Художники / artist-tags
-- Гайды / FAQ
-- Roadmap MVP
-
 ## Как поставить
-1. Создай репозиторий.
-2. Загрузи index.html, style.css, script.js.
-3. Settings → Pages → Deploy from branch → main / root.
-4. Сохрани и дождись публикации.
+
+1. Загрузи файлы в репозиторий.
+2. Settings → Pages → Deploy from branch → main / root.
+3. Save.
